@@ -1,0 +1,4 @@
+Câu hỏi:
+Có phải chỉ có 2 thiết bị giao tiếp với nhau cùng lúc hay ko.
+Nếu 3 thiết bị giao tiếp với nhau cùng lúc sẽ ntn.
+Switch sẽ handle việc nhiều thiết bị giao tiếp cùng lúc ntn.

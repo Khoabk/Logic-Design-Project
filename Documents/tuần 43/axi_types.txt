@@ -1,0 +1,10 @@
+AXI4_LITE (SLAVE):
+- Not for large data transmittion
+- Only use for sending and receiving a small amount of data
+- No data bus
+
+AXI4_STREAM:
+- Accept large data bus
+
+
+AXI4_MASTER:

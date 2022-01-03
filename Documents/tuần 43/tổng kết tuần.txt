@@ -1,0 +1,7 @@
+Tổng kết tuần:
+Đọc hết TCP, transferlayer.
+Cách chuyển đổi từ Ethernet format sang axi stream
+
+Kế hoạch tuần sau:
+Đọc lecture 8,9 (optional)
+Code theo video (axi stream)

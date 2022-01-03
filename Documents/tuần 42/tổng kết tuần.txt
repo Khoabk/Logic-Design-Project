@@ -1,0 +1,12 @@
+Tuần này:
+Xem đến tcp protocol
+Axi4 handshake
+Packect boundary
+
+
+
+Tuần sau:
+Fifo,Bram 
+AXI 10G ethermet
+phân tích waveform axi
+CAM

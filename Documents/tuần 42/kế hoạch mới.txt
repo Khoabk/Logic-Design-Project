@@ -1,0 +1,2 @@
+Tìm hiểu lý thuyết về output port lookup
+Phân tích axi stream

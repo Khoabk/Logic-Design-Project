@@ -1,0 +1,1 @@
+Initiation interval is the number of cycles it takes for a function to start processing new input

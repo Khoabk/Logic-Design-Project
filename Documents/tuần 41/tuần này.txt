@@ -1,0 +1,12 @@
+
+Tuần này:
+Questions of this week:
+Store packet trong queue ntn
+Operation of switch in detail
+How are packets separated
+Source code tham khảo
+
+
+Tuần sau:
+Đọc xong lec 6-7 : transport layer
+Hoàn thành code mấu axi stream interface hls

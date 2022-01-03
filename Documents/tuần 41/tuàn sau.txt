@@ -1,0 +1,4 @@
+Thuật toán RoundRobin
+Tìm hiểu về networking
+AXI trên slack
+Thuật toán chuyển mạch

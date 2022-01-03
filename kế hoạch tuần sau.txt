@@ -1,0 +1,12 @@
+Chụp hình phần cài đặt xilinx, register, vấn đề, phần demo hls.
+vấn đề về liscene. 
+
+
+Tuần này:  Xong demo
+
+
+Tuần sau: Mô hình mạng TCP/IP
+	  Địa chỉ MAC
+          Thuật toán chuyển mạch
+	  Cấu trúc gói tin
+          Chuẩn giao tiếp fpga
